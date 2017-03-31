@@ -1,3 +1,3 @@
  - analytics data of [@cdnjs/new-website](https://github.com/cdnjs/new-website) repository
-  - From Apr 10 2014 to Feb 28 2017 (https://github.com/cdnjs/new-website/commit/150af4bb1e12fde9430c5a33da82fea89fcf0b65 to https://github.com/cdnjs/new-website/commit/d0c81ab725f2b8ad9b6cc1277bfa583594b94416)
+  - From Apr 10 2014 to Mar 31 2017 (https://github.com/cdnjs/new-website/commit/150af4bb1e12fde9430c5a33da82fea89fcf0b65 to https://github.com/cdnjs/new-website/commit/5cfdcefb828aeaaf53883df092e63685d55b1eaf)
  - using [@hoxu/gitstats](https://github.com/hoxu/gitstats) + [@yize/html-minify](https://github.com/yize/html-minify) + [optipng](http://optipng.sourceforge.net/)
